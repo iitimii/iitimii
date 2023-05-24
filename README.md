@@ -1,6 +1,6 @@
 - 👋 Hi, I’m timii
-- 👀 I’m interested in Artificial Intellligence and Computer Vision
-- 🌱 I’m currently learning about Transformer Neural Networks
+- 👀 I’m interested in Artificial Intellligence and Computer Vision, Robotics and IoT
+- 🌱 I’m currently learning about Transformer Neural Networks and Perception in Automated machines
 - 💞️ I’m looking for internship opportunities
 - 📫 Reach me @ timiiowolabi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/timilehin-owolabi-tech-rocks
