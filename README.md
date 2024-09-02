@@ -11,6 +11,8 @@ I'm a robotics developer whose work lies at the intersection of machine learning
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks)
 ## GitHub Stats
 
 <p align="left">
