@@ -16,7 +16,7 @@ I'm a robotics developer whose work lies at the intersection of machine learning
   <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=tokyonight" alt="iitimii's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="iitimii's GitHub streak"/>
 </p>
-## Connect with Me
 
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timi-owolabi/)
 ## 📄 [View Resume](https://drive.google.com/file/d/1kHch-R7y0HAxl73Fhi4Gux988tthxH0A/view?usp=sharing)
