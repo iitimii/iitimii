@@ -17,6 +17,7 @@ Passionate robotics developer focused on machine learning and intelligent intera
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="iitimii's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=radical" alt="iitimii's GitHub stats"/>
 </p>
 
 ## 📫 Connect with Me
