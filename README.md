@@ -13,7 +13,7 @@ I'm a robotics developer whose work lies at the intersection of machine learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=tokyonight" alt="iitimii's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="iitimii's GitHub streak"/>
 </p>
