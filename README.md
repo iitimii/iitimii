@@ -1,63 +1,36 @@
-# 👋 Hi, I'm Timilehin!
+# Hi, I'm Timilehin! 👋 
 
-[![GitHub followers](https://img.shields.io/github/followers/iitimii?label=Follow&style=social)](https://github.com/iitimii)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Robotics+Developer;AI+Enthusiast;Reinforcement+Learning+Researcher" alt="Typing SVG" />
 
 ## 🤖 About Me
 
-I'm a passionate young robotics developer with a keen interest in the intersection of machine learning and robotics. My focus lies in exploring how machines can learn and interact intelligently with both their environment and humans.
-
-- 🔬 Currently delving deep into **reinforcement learning** and its applications in robotics, particularly in control systems.
-- 🎓 Aspiring to pursue a Master's and PhD to further my knowledge and contribute to cutting-edge research.
-- 🌍 Driven by the goal of leading groundbreaking robotics projects that improve global living standards through innovative R&D.
+Passionate robotics developer focused on machine learning and intelligent interactions. Currently exploring reinforcement learning in robotics control systems. Aspiring researcher aiming to lead innovative projects that enhance global living standards.
 
 ## 🛠️ Tech Stack
 
-- Programming Languages: [List your top languages]
-- Robotics Frameworks: [e.g., ROS, PyRobot]
-- Machine Learning: [e.g., TensorFlow, PyTorch]
-- Tools & Technologies: [Any other relevant tools]
-
-## 🚀 Projects
-
-Here are some projects I'm proud of:
-
-1. [Project Name](link) - Brief description
-2. [Project Name](link) - Brief description
-3. [Project Name](link) - Brief description
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=dark&locale=en" alt="iitimii's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="iitimii's GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=dark" alt="iitimii's GitHub streak" />
-</p>
+## 🌟 Featured Projects
 
-## 📈 Most Used Languages
+1. [🤖 Project Name](link) - Brief description
+2. [🧠 Project Name](link) - Brief description
+3. [🚀 Project Name](link) - Brief description
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitimii&layout=compact&theme=dark" alt="iitimii's Top Languages" />
-</p>
+## 📫 Connect with Me
 
-## 📝 Latest Blog Posts
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/iitimii)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📄 [View Resume](https://drive.google.com/file/d/1kHch-R7y0HAxl73Fhi4Gux988tthxH0A/view?usp=sharing)
 
-## 📫 Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: [Your Email Address]
-- Personal Website: [Your Website URL]
-
-## 📄 Resume
-
-My full resume is currently under construction, but you can preview my previous version here:
-[View Resume](https://drive.google.com/file/d/1kHch-R7y0HAxl73Fhi4Gux988tthxH0A/view?usp=sharing)
-
----
-
-⭐️ From [iitimii](https://github.com/iitimii)
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Wave Animation" />
