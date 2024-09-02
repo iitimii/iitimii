@@ -13,8 +13,8 @@ I'm a robotics developer whose work lies at the intersection of machine learning
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="GitHub Streak" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" height="100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="GitHub Streak" width="48%" height="100" />
 </p>
 
 ## Connect with Me
