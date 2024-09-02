@@ -6,3 +6,7 @@ Resume: [https://drive.google.com/file/d/1jVYMx0B_fU-0Yi56Vi17bDKBYr0pT1N7/view?
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=dark&locale=en" alt="iitimii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=dark" alt="iitimii" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitimii&layout=compact&theme=dark" alt="iitimii's Top Languages" />
+</p>
