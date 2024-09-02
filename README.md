@@ -1,6 +1,7 @@
 # Hi, I'm Timi! 👋 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Robotics+Developer;AI+Enthusiast;Reinforcement+Learning" alt="Typing SVG" />
+
 ## About Me
 
 I'm a robotics developer whose work lies at the intersection of machine learning, robotics, and control theory. My passion is developing intelligent machines that can learn, adapt, and interact effectively with their environment. Currently, I'm focused on applying reinforcement learning, to enhance robotic control systems.
