@@ -2,3 +2,7 @@ I’m Timilehin, a passionate young robotics developer deeply interested in how 
 
 Resume and Portfolio under construction... but preview my old resume at
 Resume: [https://drive.google.com/file/d/1jVYMx0B_fU-0Yi56Vi17bDKBYr0pT1N7/view?usp=sharing](https://drive.google.com/file/d/1kHch-R7y0HAxl73Fhi4Gux988tthxH0A/view?usp=sharing)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=dark&locale=en" alt="iitimii" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=dark" alt="iitimii" /></p>
