@@ -6,7 +6,7 @@
 
  I love learning, and building cool stuff. My work lies at the intersection of machine learning, robotics, and control theory, focusing on developing robots that learn, adapt, and intelligently interact with humans, other robots, and their environment.
 
-Currently, I’m exploring reinforcement learning with a focus on its applications in robotics control. I’ve had the privilege of assisting researchers, which has deepened my drive to pursue a PhD. My ultimate goal is to lead groundbreaking robotics projects that enhance global living standards through cutting-edge research and development.
+Currently, I’m exploring optimal control and reinforcement learning with a focus on its applications in robotics. I’ve had the privilege of assisting professors and researchers, which has deepened my drive to pursue a PhD. My ultimate goal is to lead groundbreaking robotics projects that enhance global living standards through cutting-edge research and development.
 
 ## Tech Stack
 
