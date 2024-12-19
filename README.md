@@ -1,6 +1,6 @@
 # Hi, I'm Timi! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Robotics+Developer;Machine+Learning+Engineer;Exploring+Reinforcement+Learning;Building+Cool+Projects;Learning+Every+Day;Aspiring+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Robotics;Machine+Learning;Reinforcement+Learning;Optimal+Control;Learning+Based+Control;Aspiring+Researcher" alt="Typing SVG" />
 
 ## About Me
 
