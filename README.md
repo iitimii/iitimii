@@ -4,9 +4,7 @@
 
 ## About Me
 
- I love learning, and building cool stuff. My work lies at the intersection of machine learning, robotics, and control theory, focusing on developing robots that learn, adapt, and intelligently interact with humans, other robots, and their environment.
-
-Currently, I’m exploring optimal control and reinforcement learning with a focus on its applications in robotics. I’ve had the privilege of assisting professors and researchers, which has deepened my drive to pursue a PhD. My ultimate goal is to lead groundbreaking robotics projects that enhance global living standards through cutting-edge research and development.
+Hi, I’m Timilehin. I’m a young researcher with interests at the intersection of machine learning, robotics, and control theory. Currently, I’m exploring optimal control and reinforcement learning. As a final-year undergraduate, I’m open to pursuing a PhD with professors and research labs. My goal is to develop control algorithms that adopt alternative approaches such as analytical methods and optimized brute force that achieve faster learning compared to current iterative methods.
 
 ## Tech Stack
 
