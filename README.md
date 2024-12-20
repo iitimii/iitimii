@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m Timilehin. I’m a young researcher with interests at the intersection of machine learning, robotics, and control theory. Currently, I’m exploring optimal control and reinforcement learning. As a final-year undergraduate, I’m open to pursuing a PhD with professors and research labs. My goal is to develop efficient control and learning algorithms to acheive better performance and faster learning than current SOTA methods.
+I’m a young researcher with interests at the intersection of machine learning, robotics, and control theory. Currently, I’m exploring optimal control and reinforcement learning. As a final-year undergraduate, I’m open to pursuing a PhD with professors and research labs. My goal is to develop efficient control and learning algorithms to achieve better performance and faster learning than current SOTA methods.
 
 ## Tech Stack
 
