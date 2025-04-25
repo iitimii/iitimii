@@ -20,4 +20,4 @@ I’m a young researcher with interests at the intersection of machine learning,
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timi-owolabi/)
-[![Resume]([https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1Ytpxt2RgzQqELvNEW_cGMh1Oun7fxAIZ/view?usp=sharing](https://drive.google.com/file/d/1buYFglhSI8uhQ-92KXaDo1SwD-meWfPY/view?usp=sharing))
+[![Resume]([https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1LZPsuOZ4dmpKxJJhJXtazrXhZ9O2Nn-8/view?usp=drive_link)
