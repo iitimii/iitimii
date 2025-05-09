@@ -4,7 +4,13 @@
 
 ## About Me
 
-I’m a young researcher with interests at the intersection of machine learning, robotics, and control theory. Currently, I’m exploring optimal adaptive control and reinforcement learning. As a final-year undergraduate, I’m open to pursuing a PhD with professors and research labs. My goal is to develop efficient control and learning algorithms to achieve better performance and faster learning than current SOTA methods.
+I’m a young researcher at the intersection of machine learning, robotics, and control theory. My current focus is on combining model-based and learning-based control — not just to improve performance, but to build systems that understand the physical world.
+
+I’m fascinated by phenomena like Hamiltonians, Lagrangians, Lyapunov theory, and even quantum mechanics. These are not just math tools to me; they’re clues to how intelligent systems should reason. I believe AGI will need strong dynamical priors **— not just data —** to truly grasp the world. To learn anything, an agent must predict—and be changed by its prediction errors.
+
+This belief drives my interest in unconventional ML approaches like dynamic neural networks, liquid networks, and predictive coding. General models like Vision-Language-Action models (VLAs) have already shown how learning can solve control problems. But I believe we're still scratching the surface. The best is ahead, and I want to be part of building it.
+
+I plan to pursue a PhD after undergrad, to keep learning, building, and contributing to the path toward real-world intelligent systems.
 
 ## Tech Stack
 
