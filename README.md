@@ -22,4 +22,4 @@ When I’m not hyper-focused on my work, I enjoy interacting with people and lea
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timi-owolabi/)
-[![Resume]([https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1LZPsuOZ4dmpKxJJhJXtazrXhZ9O2Nn-8/view?usp=drive_link)
+[![Resume]([https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://iitimii.github.io/data/Curriculum%20vitae%20from%20Oluwatimilehin%20Owolabi.pdf)
