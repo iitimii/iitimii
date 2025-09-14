@@ -4,13 +4,9 @@
 
 ## About Me
 
-I’m a young researcher at the intersection of machine learning, robotics, and control theory. My current focus is on combining model-based and learning-based control — not just to improve performance, but to build systems that understand the physical world.
+Hey, I’m Timi. Right now, I’m obsessed with figuring out how to make embodied AI—robots and software agents—keep learning from their experiences even after training. My vision is a sustainable world where all aspects of care are managed autonomously by super-intelligent robots. I plan to pursue a PhD to push the limits of continual learning in embodied intelligence.
 
-I’m fascinated by phenomena like Hamiltonians, Lagrangians, Lyapunov theory, and even quantum mechanics. These are not just math tools to me; they’re clues to how intelligent systems should reason. I believe AGI will need strong dynamical priors **— not just data —** to truly grasp the world. To learn anything, an agent must predict—and be changed by its prediction errors.
-
-This belief drives my interest in unconventional ML approaches like dynamic and liquid neural networks, energy-based models, and predictive coding. General models like Vision-Language-Action models (VLAs) can solve control problems. But I believe we're still scratching the surface. The best is ahead, and I want to be part of building it.
-
-I plan to pursue a PhD after undergrad, to keep learning, building, and contributing to the path toward real-world intelligent systems.
+When I’m not hyper-focused on my work, I enjoy interacting with people and learning about their experiences. I’m fueled by curiosity, fascinated by diverse cultures, I love trying new things, and I thrive on adventure.
 
 ## Tech Stack
 
