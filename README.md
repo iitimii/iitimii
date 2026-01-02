@@ -24,15 +24,3 @@ I'm currently splitting my time between building AI systems, conducting research
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iitimii&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px; width: 48%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitimii&theme=tokyonight" alt="GitHub Streak" style="height: 200px; width: 48%;" />
-</p>
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timi-owolabi/)
-[![Resume]([https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://iitimii.github.io/data/Curriculum%20vitae%20from%20Oluwatimilehin%20Owolabi.pdf)
