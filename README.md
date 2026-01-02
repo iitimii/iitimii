@@ -4,9 +4,9 @@
 
 ## About Me
 
-Hey, I’m Timi. Right now, I’m obsessed with figuring out how to make embodied AI—robots and software agents—keep learning from their experiences even after training. My vision is a sustainable world where all aspects of care are managed autonomously by super-intelligent robots. I plan to pursue a PhD to push the limits of continual learning in embodied intelligence.
+Hi, I'm Timi. I build production-grade AI systems with LangGraph, DeepAgents, PyTorch, AWS, MLflow, and LangSmith. I've shipped end-to-end ML pipelines and agentic systems at scale, from customer-facing applications to business operations optimization. My background is research-focused in reinforcement learning, so I'm applying that to production by developing self-improving AI agents (software and robots) that learn and get better over time without human intervention.
 
-When I’m not hyper-focused on my work, I enjoy interacting with people and learning about their experiences. I’m fueled by curiosity, fascinated by diverse cultures, I love trying new things, and I thrive on adventure.
+I'm currently splitting my time between building AI systems, conducting research in reinforcement learning and robotics, and mentoring the next generation of African researchers.
 
 ## Tech Stack
 
