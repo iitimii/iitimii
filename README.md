@@ -25,4 +25,5 @@ I'm currently splitting my time between building AI systems, conducting research
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 
+**Profile views (since Feb 2, 2026):**  
 ![](https://komarev.com/ghpvc/?username=iitimii&color=brightgreen)
