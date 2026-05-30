@@ -4,9 +4,7 @@
 
 ## About Me
 
-Hi, I'm Timi. I build production-grade AI systems with LangGraph, DeepAgents, PyTorch, AWS, MLflow, and LangSmith. I've shipped end-to-end ML pipelines and agentic systems at scale, from customer-facing applications to business operations optimization. My background is research-focused in reinforcement learning, so I'm applying that to production by developing self-improving AI agents (software and robots) that learn and get better over time without human intervention.
-
-I'm currently splitting my time between building AI systems, conducting research in reinforcement learning and robotics, and mentoring the next generation of African researchers.
+I turn embodied AI research ideas into real-world systems that serve humanity, spanning safe learning for aerial robots, whole-body humanoid control, autonomous mobile robots, and continual reinforcement learning.
 
 ## Tech Stack
 
@@ -23,7 +21,5 @@ I'm currently splitting my time between building AI systems, conducting research
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ROS) ![MuJoCo](https://img.shields.io/badge/-MuJoCo-orange?style=flat-square)
 
 **Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
-
-**Profile views (since Feb 2, 2026):**  
-![](https://komarev.com/ghpvc/?username=iitimii&color=brightgreen)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
