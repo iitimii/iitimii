@@ -4,7 +4,7 @@
 
 ## About Me
 
-I turn embodied AI research ideas into real-world systems that serve humanity, spanning safe learning for aerial robots, whole-body humanoid control, autonomous mobile robots, and continual reinforcement learning.
+I train, deploy, and monitor machine learning models, and build agentic systems. I also turn embodied AI research ideas into real-world systems that serve humanity, spanning safe learning for aerial robots, whole-body humanoid control, autonomous mobile robots, and continual reinforcement learning.
 
 ## Tech Stack
 
