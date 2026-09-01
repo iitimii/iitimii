@@ -23,3 +23,9 @@ I train, deploy, and monitor machine learning models, and build agentic systems.
 
 **Agent Frameworks:**
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+
+## GitHub Streak 🔥
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iitimii&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
