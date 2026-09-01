@@ -24,12 +24,7 @@ I build machine learning systems, from the infrastructure that makes AI reliable
 ## Stats 🔥
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iitimii&theme=default" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=iitimii&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=777777" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/000000/iitimii" alt="Contribution Graph" width="820" />
 </p>
 
 ## Elsewhere
