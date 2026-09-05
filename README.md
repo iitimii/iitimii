@@ -6,45 +6,62 @@ I build machine learning systems, from the infrastructure that makes AI reliable
 
 ## Tech Stack
 
-<p>
-  <strong>Languages:</strong>
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white" alt="Python" align="middle" />
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" align="middle" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust" align="middle" />
-  <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=PostgreSQL&logoColor=white" alt="SQL" align="middle" />
-</p>
-
-<p>
-  <strong>ML:</strong>
-  <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" align="middle" />
-  <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" align="middle" />
-  <img src="https://img.shields.io/badge/-JAX-000000?style=flat-square" alt="JAX" align="middle" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" align="middle" />
-  <img src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logo=github&logoColor=white" alt="llama.cpp" align="middle" />
-</p>
-
-<p>
-  <strong>Robotics:</strong>
-  <img src="https://img.shields.io/badge/-ROS2-000000?style=flat-square&logo=ROS&logoColor=white" alt="ROS2" align="middle" />
-  <img src="https://img.shields.io/badge/-MuJoCo-000000?style=flat-square" alt="MuJoCo" align="middle" />
-  <img src="https://img.shields.io/badge/-CasADi-000000?style=flat-square" alt="CasADi" align="middle" />
-</p>
-
-<p>
-  <strong>MLOps &amp; Cloud:</strong>
-  <img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" align="middle" />
-  <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" align="middle" />
-  <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" align="middle" />
-  <img src="https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" align="middle" />
-  <img src="https://img.shields.io/badge/-MLflow-000000?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" align="middle" />
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" align="middle" />
-</p>
-
-<p>
-  <strong>Agent Frameworks:</strong>
-  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" align="middle" />
-  <img src="https://img.shields.io/badge/-LangGraph-000000?style=flat-square" alt="LangGraph" align="middle" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=PostgreSQL&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/-JAX-000000?style=flat-square" alt="JAX" />
+      <img src="https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logo=github&logoColor=white" alt="llama.cpp" />
+      <img src="https://img.shields.io/badge/-Stable--Baselines3-000000?style=flat-square" alt="Stable-Baselines3" />
+    <img src="https://img.shields.io/badge/-Gymnasium-000000?style=flat-square" alt="Gymnasium" />
+    <img src="https://img.shields.io/badge/-PyTorch%20Lightning-000000?style=flat-square&logo=lightning&logoColor=white" alt="PyTorch Lightning" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Robotics:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-ROS2-000000?style=flat-square&logo=ROS&logoColor=white" alt="ROS2" />
+      <img src="https://img.shields.io/badge/-MuJoCo-000000?style=flat-square" alt="MuJoCo" />
+      <img src="https://img.shields.io/badge/-CasADi-000000?style=flat-square" alt="CasADi" />
+      <img src="https://img.shields.io/badge/-LIBERO-000000?style=flat-square" alt="LIBERO" />
+      <img src="https://img.shields.io/badge/-RoboCasa-000000?style=flat-square" alt="RoboCasa" />
+      <img src="https://img.shields.io/badge/-PyBullet-000000?style=flat-square" alt="PyBullet" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>MLOps &amp; Cloud:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/-MLflow-000000?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+      <img src="https://img.shields.io/badge/-Helm-000000?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+      <img src="https://img.shields.io/badge/-Argo%20CD-000000?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+      <img src="https://img.shields.io/badge/-Google%20Cloud-000000?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/-CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Agent Frameworks:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/-LangGraph-000000?style=flat-square" alt="LangGraph" />
+    </td>
+  </tr>
+</table>
 
 ## Stats
 
@@ -65,5 +82,5 @@ I build machine learning systems, from the infrastructure that makes AI reliable
 ---
 
 <p align="center">
-  <sub>⚡ If it learns and it moves, I want to work on it.</sub>
+  <sub>Better to be in the arena than among the critics</sub>
 </p>
