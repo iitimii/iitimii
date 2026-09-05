@@ -6,28 +6,53 @@ I build machine learning systems, from the infrastructure that makes AI reliable
 
 ## Tech Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=PostgreSQL&logoColor=white)
+<p>
+  <strong>Languages:</strong>
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white" alt="Python" align="middle" />
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" align="middle" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust" align="middle" />
+  <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=PostgreSQL&logoColor=white" alt="SQL" align="middle" />
+</p>
 
-**ML:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white) ![JAX](https://img.shields.io/badge/-JAX-000000?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white) ![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logo=github&logoColor=white)
+<p>
+  <strong>ML:</strong>
+  <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" align="middle" />
+  <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" align="middle" />
+  <img src="https://img.shields.io/badge/-JAX-000000?style=flat-square" alt="JAX" align="middle" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" align="middle" />
+  <img src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logo=github&logoColor=white" alt="llama.cpp" align="middle" />
+</p>
 
-**Robotics:**
-![ROS2](https://img.shields.io/badge/-ROS2-000000?style=flat-square&logo=ROS&logoColor=white) ![MuJoCo](https://img.shields.io/badge/-MuJoCo-000000?style=flat-square) ![CasADi](https://img.shields.io/badge/-CasADi-000000?style=flat-square)
+<p>
+  <strong>Robotics:</strong>
+  <img src="https://img.shields.io/badge/-ROS2-000000?style=flat-square&logo=ROS&logoColor=white" alt="ROS2" align="middle" />
+  <img src="https://img.shields.io/badge/-MuJoCo-000000?style=flat-square" alt="MuJoCo" align="middle" />
+  <img src="https://img.shields.io/badge/-CasADi-000000?style=flat-square" alt="CasADi" align="middle" />
+</p>
 
-**MLOps & Cloud:**
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-000000?style=flat-square&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+<p>
+  <strong>MLOps &amp; Cloud:</strong>
+  <img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" align="middle" />
+  <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" align="middle" />
+  <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" align="middle" />
+  <img src="https://img.shields.io/badge/-Terraform-000000?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" align="middle" />
+  <img src="https://img.shields.io/badge/-MLflow-000000?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" align="middle" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" align="middle" />
+</p>
 
-**Agent Frameworks:**
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square)
+<p>
+  <strong>Agent Frameworks:</strong>
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" align="middle" />
+  <img src="https://img.shields.io/badge/-LangGraph-000000?style=flat-square" alt="LangGraph" align="middle" />
+</p>
 
-## Stats 🔥
+## Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iitimii&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=777777" alt="GitHub Streak" height="165" />
 </p>
 
-## Elsewhere
+## Find Me
 
 <p align="center">
   <a href="https://www.timiowolabi.com"><img src="https://img.shields.io/badge/timiowolabi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
