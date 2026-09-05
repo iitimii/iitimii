@@ -10,7 +10,7 @@ I build machine learning systems, from the infrastructure that makes AI reliable
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 **ML:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white) ![JAX](https://img.shields.io/badge/-JAX-000000?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=TensorFlow&logoColor=white) ![JAX](https://img.shields.io/badge/-JAX-000000?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white) ![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logo=github&logoColor=white)
 
 **Robotics:**
 ![ROS2](https://img.shields.io/badge/-ROS2-000000?style=flat-square&logo=ROS&logoColor=white) ![MuJoCo](https://img.shields.io/badge/-MuJoCo-000000?style=flat-square) ![CasADi](https://img.shields.io/badge/-CasADi-000000?style=flat-square)
